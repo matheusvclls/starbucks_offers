@@ -6,7 +6,8 @@
 2. [Instruction](#instruction)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Installation <a name="installation"></a>
@@ -52,6 +53,11 @@ I develop all those steps:
 └── <b>requirements.txt</b>
  </code>
 </pre>
+
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://matheusvclls.medium.com/how-to-improve-your-sales-with-data-science-9ea4b66f6a1b).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
