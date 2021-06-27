@@ -6,7 +6,8 @@
 2. [Instruction](#instruction)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Installation <a name="installation"></a>
@@ -21,7 +22,7 @@ $ pip install -r requirements.txt
 
 ## Instruction <a name="instruction"></a>
 
-Execute all cells of starbucks_offers.ipynb
+Create the folder models in the root path and execute all cells of starbucks_offers.ipynb
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -48,10 +49,15 @@ I develop all those steps:
 │ ├── <b>portfolio.json</b> :  containing offer ids and meta data about each offer (duration, type, etc.)
 │ ├── <b>profile.json</b> :  demographic data for each customer
 │ └── <b>transcript.json</b> :  records for transactions, offers received, offers viewed, and offers completed
-├── <b>models.p</b>: all models are saved here
+├── <b>models</b>: all models are saved here (have to be created)
 └── <b>requirements.txt</b>
  </code>
 </pre>
+
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://matheusvclls.medium.com/how-to-improve-your-sales-with-data-science-9ea4b66f6a1b).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
